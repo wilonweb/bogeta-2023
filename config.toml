@@ -1,0 +1,9 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'La bogeta'
+theme = "hyde"
+
+[params]
+description = "Les bogetas de la renaissance italienne, ces ateliers où des artistes comme Leonard De Vinci et Michel Ange ont atteint l'excellence. Plongez dans notre blog et explorez les principes clés de l'enseignement humaniste qui ont façonné leur génie créatif."
+
+
